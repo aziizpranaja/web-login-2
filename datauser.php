@@ -154,6 +154,7 @@
                           <?= $row["verification"]; ?>
                           </td>
                         </tr>
+			<?php $i++ ?>
                         <?php endforeach; ?>
                       </tbody>
                     </table>
