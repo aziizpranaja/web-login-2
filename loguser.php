@@ -99,8 +99,8 @@
             <div class="col-md-12">
               <div class="card card-plain">
                 <div class="card-header card-header-primary">
-                  <h4 class="card-title mt-0"> Data User</h4>
-                  <p class="card-category"> User Pada Aplikasi Ini</p>
+                  <h4 class="card-title mt-0"> Log User</h4>
+                  <p class="card-category">Log Activity User Pada Aplikasi Ini</p>
                 </div>
                 <div class="card-body">
                   <div class="table-responsive">
