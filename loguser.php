@@ -136,6 +136,7 @@
                           <?= $row["time_log"]; ?>
                           </td>
                         </tr>
+			 <?php $i++ ?>
                         <?php endforeach; ?>
                       </tbody>
                     </table>
